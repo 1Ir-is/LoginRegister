@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(rgba(0,0,50,0.5), rgba(0,0,50,0.5)), url("https://info-imgs.vgcloud.vn/2022/03/03/16/chiem-nguong-bao-tang-tuong-lai-hien-dai-bac-nhat-the-gioi-tai-dubai-2.png");
+    background-size: cover;
+}
+.login-box{
+    margin: 150px auto;
+    max-width: 700px;
+}
+
+.login-left{
+    background: rgba(211,211,211,0.5);
+    padding: 30px;
+}
+
+.login-right{
+    background: #fff;
+    padding: 30px;
+}
+
+.form-control{
+    background-color: transparent !important;
+}
